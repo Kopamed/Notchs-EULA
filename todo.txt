@@ -1,0 +1,11 @@
+ - employment/unemployment percent
+ - worker rating
+ - leader and mod rating
+ - group ratings
+ - group leaders and admins
+ - group tags
+ - automated #raid-server-info
+ - update #getting started
+ - is group open for help?
+ - group description etc (copy of #raid servers-info)
+ - proggress updates
